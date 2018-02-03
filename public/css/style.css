@@ -1,0 +1,13 @@
+.body, .html{
+    height: 100%;
+}
+.splashBox{
+    height: 100%;
+}
+.splash{
+    background-image: url("/public/images/splash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
